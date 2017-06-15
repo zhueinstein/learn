@@ -1,0 +1,6 @@
+com\learn\model\Person.class
+com\learn\ServletInitializer.class
+com\learn\MongoWebApplication.class
+com\learn\dao\PersonRepository.class
+com\learn\controller\MongoController.class
+com\learn\model\Location.class
